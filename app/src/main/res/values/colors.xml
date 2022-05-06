@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Text Colors-->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Light Mode-->
+    <color name="primary_blue">#000C7C</color>
+
+    <!--Dark Mode-->
+    <color name="dreamy_blue">#39468E</color>
+    <color name="chill_grey">#121212</color>
+
+
+    <!-- Quality Colors-->
+    <color name="bad_red">#FF5454</color>
+    <color name="ok_yellow">#FFE600</color>
+    <color name="strong_green">#009688</color>
+</resources>

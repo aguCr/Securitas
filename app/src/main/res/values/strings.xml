@@ -1,0 +1,66 @@
+<resources>
+
+    <!-- App Name -->
+    <string name="app_name">Securitas</string>
+
+
+    <!-- Authentication Dialog -->
+    <string name="auth_title">Securitas öffnen</string>
+    <string name="auth_subtitle">Bitte verifiziere, dass du es wirklich bist</string>
+    <string name="auth_description">Log dich mit deinem Fingerabdruck oder deiner PIN an.</string>
+
+
+    <!-- Information Dialog -->
+    <string name="bad_quality_info">Dein Passwort ist schwach und sollte schnell verändert werden. Achte auf eine Mindestlänge von 8 Zeichen sowie das enthalten von Klein/Großbuchstaben, Zahlen und Sonderzeichen!"</string>
+    <string name="ok_quality_info">"Es geht besser! Dein Passwort ist OK, kann aber sicherer sein. Achte auf eine Mindestlänge von 8 Zeichen sowie das enthalten von Klein/Großbuchstaben, Zahlen und Sonderzeichen!"</string>
+    <string name="strong_quality_info">"Dein Passwort ist stark, du musst dir keine Sorgen machen!"</string>
+
+    <!--Tab Layout Names-->
+    <string name="password_title">Passwort</string>
+    <string name="generator_title">Generator</string>
+
+    <!-- Form Fragment Titles-->
+    <string name="add_title">Passwort hinzufügen</string>
+    <string name="edit_title">Passwort ändern</string>
+    <!-- Generator Strings -->
+    <string name="passwortlaenge_8">Passwortlänge: 8</string>
+    <string name="enthaelt">Enthält:</string>
+    <string name="kleinbuchstaben">Kleinbuchstaben</string>
+    <string name="grossbuchstaben">Großbuchstaben</string>
+    <string name="zahlen">Zahlen</string>
+    <string name="sonderzeichen">Sonderzeichen</string>
+    <string name="startet_mit">Startet mit:</string>
+    <string name="passwort_generieren">Passwort generieren</string>
+    <string name="quality_information">quality information</string>
+
+
+    <!-- Main Activity Button -->
+    <string name="securitas_oeffnen">Securitas öffnen</string>
+
+
+    <!-- Form Strings -->
+    <string name="kategorie">Kategorie</string>
+    <string name="titel">Titel</string>
+    <string name="benutzername_e_mail">Benutzername/E-Mail</string>
+    <string name="passwort">Passwort</string>
+    <string name="notiz">Notiz</string>
+    <string name="speichern">Speichern</string>
+    <string name="abbrechen">Abbrechen</string>
+    <string name="passwort_hinzufuegen">Passwort hinzufügen</string>
+    <string name="quality_color_rectangle">Quality Color Rectangle</string>
+
+
+    <!-- Categories String Array for PwFormFragment-->
+    <string-array name="categories">
+        <item>Social Media</item>
+        <item>E-Mails</item>
+        <item>Finanzen</item>
+        <item>Beruf</item>
+        <item>Freizeit</item>
+        <item>Spiele</item>
+        <item>Webseiten</item>
+        <item>Sonstiges</item>
+    </string-array>
+
+
+</resources>
